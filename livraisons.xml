@@ -1,0 +1,22 @@
+<livraisons>
+  <livraison>
+    <client>Mme Lagrange</client>
+    <adresse>28 rue des Rainettes 33150 Cenon</adresse>
+    <colis>
+      <ref>172648574</ref>
+      <montant>96.00</montant>
+    </colis>
+    <colis>
+      <ref>172648586</ref>
+      <montant>45.80</montant>
+    </colis>
+  </livraison>
+  <livraison>
+    <client>M. Iribarne</client>
+    <adresse>5 chemin des Dunes 33510 Andernos</adresse>
+    <colis>
+      <ref>172648588</ref>
+      <montant>146.75</montant>
+    </colis>
+  </livraison>  
+</livraisons>
